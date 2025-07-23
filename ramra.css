@@ -1,0 +1,35 @@
+.vmenu{
+
+}
+.vmenu ol {
+    list-style-type:none;
+
+}
+.vmenu ol li{
+    display:block;
+
+}
+.vmenu ol li a{
+
+    text-decoration:none;
+    color:black;
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    border:1px solid white;
+    width:200px;
+    text-align: center;
+    border-radius:3px 3px 4px red;
+    
+
+}
+.vmenu ol li a:hover{
+    background:green;
+
+}
+.vmenu ol li a:visited {
+    background:red;
+}
+.vmenu ol li a:active{
+    background:blue;
+}
